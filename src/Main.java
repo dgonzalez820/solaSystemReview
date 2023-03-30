@@ -8,6 +8,13 @@ public class Main {
         solar.moon="2";
         solar.sun="1";
 
+        Sun fero= new Sun();
+        fero.color="red";
+        fero.Temperature=215662;
+        fero.heat="25617524";
+
+
+
 
     }
 }

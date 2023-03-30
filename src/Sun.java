@@ -1,0 +1,8 @@
+public class Sun {
+
+    String heat;
+    String color;
+    String Temperature;
+
+
+}
